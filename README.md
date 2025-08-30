@@ -27,10 +27,14 @@ I'm a passionate **Front-End Web Developer** with a strong focus on creating int
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![NativeWind](https://img.shields.io/badge/-NativeWind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ### State Management & Best Practices
-I have experience with **Redux** and the **Context API** for efficient state management in complex applications. I also adhere to **security best practices** to build robust and secure front-end solutions.
+I have experience with **Redux** and the **Context API** for efficient state management in complex applications.  
+I also implement **security best practices** and **robust error handling** to ensure secure, stable, and maintainable codebases.
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -45,3 +49,4 @@ I have experience with **Redux** and the **Context API** for efficient state man
 - **Email:** phirikoketso789@gmail.com
 - **Personal Website/Portfolio:** [Link to your portfolio here]
 - **Twitter:** [Link to your Twitter here]
+
