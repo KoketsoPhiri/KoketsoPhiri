@@ -2,15 +2,15 @@
 
 ## About Me 🚀
 
-I’m a **Front-End Web & Mobile Developer** with strong expertise in **TypeScript, React, React Native, Next.js, and GraphQL**.  
-My work bridges **modern front-end engineering**, **mobile development**, and **cloud-driven AI solutions**.  
+I’m a **Front-End Web & Mobile Developer** specializing in **TypeScript, React, React Native, Next.js, and GraphQL**.  
+My expertise extends beyond front-end engineering into **AI-powered applications, multicloud networking, and cloud-native development**.  
 
-With certifications in **cloud computing, AI foundations, and multicloud networking**, I deliver scalable, secure, and future-ready applications. I’m especially passionate about integrating **LLMs and AI chatbots** into real-world projects — combining user-centric design with cutting-edge cloud technologies.  
+With certifications spanning **front-end development, AI, cloud, and IT support**, I build solutions that are **scalable, secure, and intelligent**. I’m especially passionate about integrating **LLMs and AI chatbots** into modern applications — blending cutting-edge technology with practical user experience.  
 
-- 🔭 **Currently working on:** A web application integrating **AI chatbots** using knowledge gained from **OCI Generative AI** and **LLM foundations**.  
+- 🔭 **Currently working on:** A web application integrating **AI chatbots** using **OCI Generative AI** and LLMs.  
 - 🌍 **Languages:** JavaScript (Fluent), TypeScript (Expert), English (Fluent).  
 - 📫 **Reach me at:** [phirikoketso789@gmail.com](mailto:phirikoketso789@gmail.com)  
-- ⚡ **Fun fact:** I explain complex tech concepts visually — diagrams and flows beat long paragraphs every time.  
+- ⚡ **Fun fact:** I prefer visual explanations — I can turn complex system designs into clear diagrams faster than long write-ups.  
 
 ---
 
@@ -36,15 +36,15 @@ With certifications in **cloud computing, AI foundations, and multicloud network
 ![NativeWind](https://img.shields.io/badge/-NativeWind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Cloud & AI
-- **Oracle Cloud Infrastructure (OCI)**: AI Foundations, Generative AI, and LLM integration  
-- **AWS Cloud Quest**: Cloud Computing fundamentals and cloud-native architectures  
-- **Aviatrix Multicloud Network Associate**: Designing secure, scalable multicloud networks  
-- AI chatbot integration with **LLMs** and cloud APIs  
+- **Oracle Cloud Infrastructure (OCI):** AI Foundations, Generative AI, LLM integration  
+- **AWS Cloud Quest:** Cloud Computing fundamentals & cloud-native architectures  
+- **Aviatrix:** Multicloud Network Associate (MCNA) – secure, scalable multicloud networking  
+- AI chatbot development powered by **LLMs** and cloud APIs  
 
 ### Best Practices
 - Scalable **state management** (Redux, Context API)  
-- **Robust error handling** for resilient applications  
-- **Security best practices** embedded in development lifecycle  
+- **Error handling & resilience** in production-grade apps  
+- **Security-first development** lifecycle  
 - Performance optimization & responsive UI/UX  
 
 ### Tools & Platforms
@@ -56,10 +56,13 @@ With certifications in **cloud computing, AI foundations, and multicloud network
 
 ## 📜 Certifications
 
+- 🏅 **ALX ProDev Front-End Web Development Certificate**  
+- 🏅 **ALX Professional Foundations Certificate**  
 - 🏅 **OCI AI Foundations Associate**  
 - 🏅 **OCI Generative AI Professional**  
 - 🏅 **AWS Cloud Quest – Cloud Computing**  
-- 🏅 **Aviatrix Multicloud Network Associate**  
+- 🏅 **Aviatrix Multicloud Network Associate (MCNA)**  
+- 🏅 **Google IT Support Certificate**  
 
 ---
 
@@ -69,6 +72,7 @@ With certifications in **cloud computing, AI foundations, and multicloud network
 - **Email:** phirikoketso789@gmail.com  
 - **Portfolio:** [Link to your portfolio here]  
 - **Twitter/X:** [Link to your profile here]  
+
 
 
 
