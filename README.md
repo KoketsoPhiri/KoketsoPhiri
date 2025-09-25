@@ -70,7 +70,7 @@ With certifications spanning **front-end development, AI, cloud, and IT support*
 
 - **LinkedIn:** [Koketso Phiri](https://www.linkedin.com/in/koketso-phiri-421777216/)  
 - **Email:** phirikoketso789@gmail.com  
-- **Portfolio:** [Link to your portfolio here]  
+- **Portfolio:**  [Koketso Phiri](https://personal-portfolio-five-silk-51.vercel.app/)
 - **Twitter/X:** [Link to your profile here]  
 
 
